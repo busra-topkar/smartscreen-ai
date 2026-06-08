@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+uploaded_cv.pdf
+uploaded_cv
+.streamlit/secrets.toml
